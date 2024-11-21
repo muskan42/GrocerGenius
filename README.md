@@ -102,7 +102,3 @@ GrocerGenius is an AI-driven solution aimed at helping supermarkets forecast fut
    - Best Hyperparameters : {'learning_rate': 0.2, 'max_depth': 7, 'n_estimators': 100, 'subsample': 0.9}
    - Mean Squared Error : 39747.08882305308
    - R² Score : 0.9853761859590567
----
-
-### **Acknowledgements**
-- This project is part of **Infosys Internship Program 2024**.
